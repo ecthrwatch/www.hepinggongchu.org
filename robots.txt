@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://www.hepinggongchu.org/sitemap-index.xml
